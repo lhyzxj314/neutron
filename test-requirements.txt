@@ -17,7 +17,7 @@ WebTest>=2.0 # MIT
 oslotest>=1.10.0 # Apache-2.0
 os-testr>=0.8.0 # Apache-2.0
 ddt>=1.0.1 # MIT
-pylint==1.4.5 # GPLv2
+pylint==4.0.9 # GPLv2
 reno>=1.8.0 # Apache-2.0
 # Needed to run DB commands in virtualenvs
 PyMySQL>=0.7.6 # MIT License
